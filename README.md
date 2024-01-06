@@ -1,4 +1,5 @@
-# I'm Duy Mach - aka John Naeder or Hōōin Zealot - call whatever you want
+# I'm Duy Mach - aka John Naeder or Hōōin Zealot 
+# Call whatever you want
 
 <img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://i.giphy.com/W4CJ8xy0noyja0fgdo.webp)" />
 
