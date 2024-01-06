@@ -8,9 +8,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://i.giphy.com/W4CJ8xy0noyja0fgdo.webp)" />
 
-### Spotify Playing 🎧
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5yaEx1flpZmNBiPyAT8iUx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br/>
 ---
 
