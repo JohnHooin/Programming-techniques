@@ -1,3 +1,3 @@
-# Where Imma put my knowledge
+# A place Imma put my knowledge
 
 
