@@ -1,2 +1,3 @@
-# Programming Techniques
-Things I learned 
+# A place Imma put my knowledge
+
+
