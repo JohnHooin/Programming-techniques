@@ -1,2 +1,2 @@
-# Programming-techniques
+# Programming Techniques
 Things I learned 
