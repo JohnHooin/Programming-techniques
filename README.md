@@ -28,4 +28,3 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/JohnNaeder) ### 
