@@ -5,10 +5,6 @@
 
 ## Nothing to say right now 
 
----
-
-<img align="right" alt="GIF" height="170px" src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1MmQ1ZGtvMDFmZ2pnZWw3cHhzdGphNjk4aDJxNzF0NmgyYmVmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4CJ8xy0noyja0fgdo/giphy.gif))" />
-
 <br/>
 ---
 
